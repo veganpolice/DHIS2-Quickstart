@@ -49,5 +49,6 @@ password: district
 ![](./new-app-login-success.png)
 
 ### Next steps
-- ... get some data?
+- ... change text to 'hello-world' ?
+- ... query something?
 - ... create a new user? 
