@@ -21,7 +21,7 @@ yarn global add @dhis/cli
 d2 cluster up 2.35.0 --db-version 2.35 --seed
 ```
 2. From the browser, navigate to http://localhost:8080. If DHIS2 is running you should see the following page,
-!()[./image-of-login.png]
+![](./image-of-login.png)
 
 ### Creating a new app
 1. From the terminal, create a new DHIS2 app called "my-app"
@@ -35,7 +35,7 @@ cd my-app && yarn start
 
 ### Connecting your app to DHIS2
 1. From the browser, navigate to http://localhost:3000. You will see the following page
-!()[./new-app-login-page.png]
+![](./new-app-login-page.png)
 2. Enter the DHIS2 server url and the default admin user
 ```
 server: http://localhost:8080
@@ -43,7 +43,7 @@ username: admin
 password: district
 ```
 3. You will see the default admin user name and a welcome message
-!()[./new-app-login-success.png]
+![](./new-app-login-success.png)
 
 ### Next steps
 - ... get some data?
