@@ -22,7 +22,7 @@ yarn global add @dhis/cli
 ```
 d2 cluster up 2.35.0 --db-version 2.35 --seed
 ```
-2. 
+2. From the browser, navigate to http://localhost:8080 
 
 ### Creating a new app
 
