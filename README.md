@@ -4,7 +4,7 @@
 
 ### Introduction
  
-You can start developing a DHIS2 app on Mac, Windows or Linux using Docker and the DHIS command line interface (CLI). In this guide, you will install the prerequisites, start up a local DHIS2 instance and create a new DHIS2 app. Your app will connect to the local DHIS2 instance.
+You can start developing a DHIS2 app on Mac, Windows or Linux using Docker and the DHIS command line interface (CLI). In this guide, you will install the prerequisites, start up a local DHIS2 instance and create a new app. Your app will connect to the local DHIS2 instance.
 
 ### Installing prerequisites
 
