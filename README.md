@@ -15,7 +15,6 @@ You can start developing a DHIS2 app on Mac, Windows or Linux using Docker and t
 ```
 yarn global add @dhis/cli
 ```
-Now that you have installed Docker and the DHIS2 CLI you are ready to start up a DHIS2 instance.
 
 ### Starting a local DHIS2 instance
 
