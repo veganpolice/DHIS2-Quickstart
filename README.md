@@ -39,7 +39,7 @@ cd my-app && yarn start
 ### Connecting your app to DHIS2
 1. From the browser, navigate to http://localhost:3000. You will see the following page
 ![](./new-app-login-page.png)
-2. Enter the DHIS2 server url and the default admin user
+2. Enter your DHIS2 server url and the username and password of the default admin user
 ```
 server: http://localhost:8080
 username: admin
