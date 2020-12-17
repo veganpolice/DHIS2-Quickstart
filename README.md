@@ -13,6 +13,7 @@ You can start developing a DHIS2 app on Mac, Windows or Linux using Docker and t
 ```
 yarn global add @dhis/cli
 ```
+Now that you have installed Docker and the DHIS CLI you are ready to start up DHIS2
 
 ### Starting a local DHIS2 instance
 
@@ -22,6 +23,8 @@ d2 cluster up 2.35.0 --db-version 2.35 --seed
 ```
 2. From the browser, navigate to http://localhost:8080. If DHIS2 is running, you should see the following page,
 ![](./image-of-login.png)
+
+If you can load DHIS in the browser, you are ready to create a new app
 
 ### Creating a new app
 1. From the terminal, create a new DHIS2 app called "my-app"
