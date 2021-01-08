@@ -9,7 +9,7 @@ You can start developing a DHIS2 app on Mac, Windows or Linux using Docker and t
 1. Download and install [Docker](https://docs.docker.com/get-docker/)
 2. If you're using Linux, install [Docker Compose](https://docs.docker.com/compose/install/#install-compose-on-linux-systems)
 3. Install [yarn](https://classic.yarnpkg.com/en/docs/install)
-4. From the terminal, install DHIS CLI
+4. From the command line or terminal, install DHIS CLI
 ```
 yarn global add @dhis/cli
 ```
